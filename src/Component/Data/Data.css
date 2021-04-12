@@ -1,0 +1,17 @@
+.profile{
+    display:flex;
+    border-bottom: 2px solid lightgray;
+}
+.profile-name{
+    color: black;
+    font-weight: 700;
+}
+.add-button{
+    background-color:lightblue;
+    width:150px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}

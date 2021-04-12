@@ -1,0 +1,12 @@
+.profile-container{
+    display:flex;
+}
+.data-container{
+    width: 60%;
+    margin-left: 30px;
+    border-right: 2px solid lightgray;
+}
+.salary-container{
+    margin-right: 30px;
+    margin-left: 5px;
+}
